@@ -3,8 +3,7 @@ I don't watch hockey but I've wanted to start watching hockey for a while. So I 
 
 # Findings  
 
-What I found was the Montreal Canadiens seem to be on of the best teams in hockey history due to their number of Cup wins and their win percentage over the years. Although, the Montreal Canadiens seem to be very good, I included the Carolina Hurricanes  
-in the project since I am from NC and I determined they also seem like a decent team due to their above average win percentage, and they have won one cup so I will pull from the Hurricanes if I start watching Hockey.  
+What I found was the Montreal Canadiens seem to be one of the best teams in hockey history due to their number of Cup wins and their win percentage over the years. Although, the Montreal Canadiens seem to be very good, I included the Carolina Hurricanes in the project since I am from NC and I determined they also seem like a decent team due to their above average win percentage, and they have won one cup so I will pull from the Hurricanes if I start watching Hockey.  
 
 # Issues  
 
