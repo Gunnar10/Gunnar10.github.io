@@ -1,4 +1,4 @@
-# Project Purpose  
+# Project-2  
 I don't watch hockey but I've wanted to start watching hockey for a while. So I decided to use the data from the NHL API to see if I can get an idea of what teams are good. 
 
 # Findings  
